@@ -17,3 +17,12 @@ contract Counter {
         return count;
     }
 }
+nexus-counter/
+├── contracts/
+│   └── contracts/
+│       └── Counter.sol
+├── frontend/
+│   ├── pages/
+│   │   └── index.tsx
+│   └── package.json
+└── package.json
